@@ -1,0 +1,12 @@
+export { default as Logo } from "./logo.svg";
+export { default as FootballIcon } from "./football.svg";
+export { default as BasketballIcon } from "./basketball.svg";
+export { default as TennisIcon } from "./tennis.svg";
+export { default as SearchIcon } from "./search.svg";
+export { default as ChevronDownIcon } from "./chevron-down.svg";
+export { default as TrashIcon } from "./trash.svg";
+export { default as CrownIcon } from "./crown.svg";
+export { default as SingleMatchIcon } from "./single-match.svg";
+export { default as CIcon } from "./c.svg";
+export { default as Trash2Icon } from "./trash-2.svg";
+export { default as LogoSoloIcon } from "./logo-solo.svg";
